@@ -1,6 +1,6 @@
 {
   "name": "nunjucks-amd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Precompile nunjucks templates into AMD modules",
   "main": "index.js",
   "scripts": {
