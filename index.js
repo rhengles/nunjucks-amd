@@ -1,5 +1,5 @@
 
-function precompileCJS(templates, opts) {
+function precompileAMD(templates, opts) {
 	var out = '', name, template, eol;
 	opts = opts || {};
 	eol = opts.eol || '\n';
@@ -14,4 +14,4 @@ function precompileCJS(templates, opts) {
 	return out;
 }
 
-module.exports.wrapper = precompileCJS;
+module.exports.wrapper = precompileAMD;
