@@ -1,0 +1,23 @@
+{
+  "name": "nunjucks-amd",
+  "version": "0.0.1",
+  "description": "Precompile nunjucks templates into AMD modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhengles/nunjucks-amd.git"
+  },
+  "keywords": [
+    "nunjucks",
+    "precompile"
+  ],
+  "author": "Rafael Hengles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhengles/nunjucks-amd/issues"
+  },
+  "homepage": "https://github.com/rhengles/nunjucks-amd"
+}
